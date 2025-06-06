@@ -7,7 +7,7 @@ This paper presents the construction of an extended natural number model, \( N^+
 Kim Altair
 
 ## Download the thesis  
-[[https://github.com/KimAltair/ZFC-N/blob/main/ZFC_N3.pdf](https://github.com/KimAltair/ZFC-N/blob/main/ZFC_N5.pdf)](https://github.com/KimAltair/ZFC-N/blob/main/ZFC_N5.pdf)
+(https://github.com/KimAltair/ZFC-N/blob/main/ZFC_N5.pdf)](https://github.com/KimAltair/ZFC-N/blob/main/ZFC_N5.pdf)
 
 ## E mail
 dbnjk515@gmail.com
